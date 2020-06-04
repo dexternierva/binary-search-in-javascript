@@ -12,7 +12,6 @@ Javascript function that searches for a value in an array using Binary Search
 
 ## Code
 ```javascript
-function test() 
 function binarySearch(arr, value) {
     let start = 0;
     let end = arr.length - 1;
