@@ -5,9 +5,9 @@ Javascript function that searches for a value in an array using Binary Search
 1. Create a function that accepts a sorted array and a value
 2. Create a start and end pointer
 3. Create a loop that runs as long as start pointer comes before the right pointer.
-  * Compare value with middle element, if equal return mid.
-  * If value is less than middle element adjust end pointer accordingly
-  * If value is greater than middle element adjust start pointer accordingly
+  &nbsp;&nbsp;&nbsp;&nbsp;* Compare value with middle element, if equal return mid.
+  &nbsp;&nbsp;&nbsp;&nbsp;* If value is less than middle element adjust end pointer accordingly
+  &nbsp;&nbsp;&nbsp;&nbsp;* If value is greater than middle element adjust start pointer accordingly
 4. Return -1 if value is not found.
 
 ## Code
